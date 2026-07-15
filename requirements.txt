@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+scipy
+tensorflow
+nltk
+beautifulsoup4
+liac-arff
+graphviz
+jupyter
+ipykernel
